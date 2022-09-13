@@ -9,7 +9,7 @@
     <PublishAot>true</PublishAot>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.Azure.Functions.Worker" Version="2.0.4-preview1-local" />
+    <PackageReference Include="Microsoft.Azure.Functions.Worker" Version="2.0.6-local" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http" Version="3.0.12" />
     <PackageReference Include="Microsoft.Azure.Functions.Worker.Sdk" Version="2.0.1-preview3-local" />
   </ItemGroup>
