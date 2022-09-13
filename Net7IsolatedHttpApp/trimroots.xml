@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="System.Diagnostics.Tracing" />
+  <assembly fullname="Microsoft.Azure.Functions.Worker.Grpc" />
+  <assembly fullname="System.Diagnostics.DiagnosticSource" />
+</linker>
